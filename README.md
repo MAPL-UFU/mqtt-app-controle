@@ -48,10 +48,10 @@ Para não ocorrer erros na execução do projeto, siga os passos apresentados a 
 Foram realizados testes e ajustes em bancada no Laboratório de Ensino de Mecatrônica.
 Os resultados finais estão apresentados em vídeos disponíveis nos links a seguir:
 
-- Demonstração 01 de 07: TELA DE COMANDO - https://youtu.be/MyiuIrd5wE8
-- Demonstração 02 de 07: TELA DE DASHBOARD - https://youtu.be/5tTWuPnENv8
-- Demonstração 03 de 07: TELA DE CONTROLE DE DOIS ATUADORES (PRIMEIRA SEQUÊNCIA) - https://youtu.be/RBTWL6hKgfo
-- Demonstração 04 de 07: TELA DE CONTROLE DE DOIS ATUADORES (SEGUNDA SEQUÊNCIA) - https://youtu.be/ZZiYtdUzc9o
-- Demonstração 05 de 07: TELA DE CONTROLE DE DOIS ATUADORES (TERCEIRA SEQUÊNCIA) - https://youtu.be/LQ93bLfJFuQ
-- Demonstração 06 de 07: TELA DE CONTROLE DE TRÊS ATUADORES - https://youtu.be/s2FILRrS43g
-- Demonstração 07 de 07: TELA DE CONTROLE VIA BROKER EM NUVEM - https://youtu.be/ezOWhJ70hYo
+- Demonstração 01 de 07: [TELA DE COMANDO](https://youtu.be/MyiuIrd5wE8);
+- Demonstração 02 de 07: [TELA DE DASHBOARD](https://youtu.be/5tTWuPnENv8);
+- Demonstração 03 de 07: [TELA DE CONTROLE DE DOIS ATUADORES (PRIMEIRA SEQUÊNCIA)](https://youtu.be/RBTWL6hKgfo);
+- Demonstração 04 de 07: [TELA DE CONTROLE DE DOIS ATUADORES (SEGUNDA SEQUÊNCIA)](https://youtu.be/ZZiYtdUzc9o);
+- Demonstração 05 de 07: [TELA DE CONTROLE DE DOIS ATUADORES (TERCEIRA SEQUÊNCIA)](https://youtu.be/LQ93bLfJFuQ);
+- Demonstração 06 de 07: [TELA DE CONTROLE DE TRÊS ATUADORES](https://youtu.be/s2FILRrS43g);
+- Demonstração 07 de 07: [TELA DE CONTROLE VIA BROKER EM NUVEM](https://youtu.be/ezOWhJ70hYo).
