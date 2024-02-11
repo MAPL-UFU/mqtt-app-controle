@@ -2,7 +2,7 @@
 Desenvolvimento de um aplicativo mobile para controlar bancada eletropneumática via protocolo MQTT usando Raspberry Pi 4 e ESP32.
 
 ## ⚙️ Configuração do Raspberry Pi
-A instalação e configuração detalhada do Sistema Operacional do Raspberry estão descritas no relatório do projeto.
+A instalação e configuração detalhada do Sistema Operacional do Raspberry, além das configurações de conexão com a rede de internet da UFU e conexão MQTT estão descritas no relatório do projeto.
 
 ## ⚙️ Configuração do ESP32
 - ### Configurando a IDE do Arduino para ESP32
