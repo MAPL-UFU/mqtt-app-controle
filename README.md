@@ -32,7 +32,7 @@ Além disso, deve-se inicializar a chamada da função callback na função void
 Os códigos de configuração do Raspberry Pi podem ser acessados através [deste diretório](https://github.com/MAPL-UFU/mqtt-app-controle/tree/main/C%C3%93DIGOS%20RASPBERRY).
 
 ## 📁 Acesso aos códigos dos microcontroladores
-Os códigos para cada microcontrolador podem ser acessados através [deste diretório](https://github.com/MAPL-UFU/mqtt-app-controle/tree/main/C%C3%93DIGOS%20ESP32).
+Os códigos para cada microcontrolador podem ser acessados através [deste diretório](/CÓDIGOS ESP32).
 
 ## 📁 Acesso ao projeto do aplicativo
 O projeto do aplicativo pode ser acessado através do código fonte neste diretório ou se preferir, pode-se realizar a instalação diretamente no dispositivo através do APK.
