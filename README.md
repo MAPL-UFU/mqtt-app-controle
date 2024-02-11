@@ -2,9 +2,7 @@
 Desenvolvimento de um aplicativo mobile para controlar bancada eletropneumática via protocolo MQTT usando Raspberry Pi 4 e ESP32.
 
 ## ⚙️ Configuração do Raspberry Pi
-- ### Conexão à rede internet da UFU
-
-- ### Instalação do Mosquitto para habilitar broker MQTT
+A instalação e configuração detalhada do Sistema Operacional do Raspberry estão descritas no relatório do projeto.
 
 ## ⚙️ Configuração do ESP32
 - ### Configurando a IDE do Arduino para ESP32
@@ -37,7 +35,7 @@ Os códigos de configuração do Raspberry Pi podem ser acessados através deste
 Os códigos para cada microcontrolador podem ser acessados através deste diretório.
 
 ## 📁 Acesso ao projeto do aplicativo
-O projeto do aplicativo pode ser acessado através do código fonte neste repositório ou se preferior, pode-se realizar a instalação diretamente no dispositivo através do APK.
+O projeto do aplicativo pode ser acessado através do código fonte neste diretório ou se preferir, pode-se realizar a instalação diretamente no dispositivo através do APK.
 
 ### 📲 Abrindo e executando o projeto no Android Studio
 Lembrando que para abrir o projeto do aplicativo, deve-se instalar o software Android Studio.
