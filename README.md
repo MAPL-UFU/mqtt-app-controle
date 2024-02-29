@@ -41,7 +41,10 @@ O projeto do aplicativo pode ser acessado através do código fonte [neste diret
 Lembrando que para abrir o projeto do aplicativo, deve-se instalar o software Android Studio.
 Para não ocorrer erros na execução do projeto, siga os passos apresentados a seguir:
 - O arquivo será baixado no formato .zip. Assim, é necessário extraí-lo para conseguir acessar;
-- Abra o Android Studio e clique em...;
+- Abra o Android Studio e clique em "Open";
+- Depois, vá até o diretório onde o arquivo foi extraído e selecione o arquivo;
+![AndroidStudio](https://github.com/MAPL-UFU/mqtt-app-controle/assets/73907821/a5fce767-d266-471e-bdf4-b0d8bb05983f)
+- Por fim, clique em "Ok" e o projeto será aberto no Android Studio. 
 
 ## ✅ Resultados
 Foram realizados testes e ajustes em bancada no Laboratório de Ensino de Mecatrônica.
