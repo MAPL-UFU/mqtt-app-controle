@@ -35,12 +35,11 @@ Os códigos de configuração do Raspberry Pi podem ser acessados através [dest
 Os códigos para cada microcontrolador podem ser acessados através [deste diretório](https://github.com/MAPL-UFU/mqtt-app-controle/tree/main/C%C3%93DIGOS%20ESP32).
 
 ## 📁 Acesso ao projeto do aplicativo
-O projeto do aplicativo pode ser acessado através do código fonte neste diretório ou se preferir, pode-se realizar a instalação diretamente no dispositivo através do APK.
+O projeto do aplicativo pode ser acessado através do código fonte [neste diretório](https://github.com/MAPL-UFU/mqtt-app-controle/blob/main/Aplicativo/Android%20Studio/MQTT-APP-AndroidStudio.zip). Lembrando que, o arquivo está em formato .zip. Logo, deve-se realizar o Download para extraí-lo. Ou se preferir, pode-se realizar a instalação diretamente no dispositivo Android através do [APK](https://github.com/MAPL-UFU/mqtt-app-controle/blob/main/Aplicativo/APK/MQTT-App-vFinal.apk). Para realizar o download, deve-se clicar nos três pontos no canto superior direito e depois em "Download".
 
 ### 📲 Abrindo e executando o projeto no Android Studio
 Lembrando que para abrir o projeto do aplicativo, deve-se instalar o software Android Studio.
 Para não ocorrer erros na execução do projeto, siga os passos apresentados a seguir:
-- Vá até o diretório do projeto e clique em ...;
 - O arquivo será baixado no formato .zip. Assim, é necessário extraí-lo para conseguir acessar;
 - Abra o Android Studio e clique em...;
 
