@@ -28,7 +28,7 @@ Para a conexão com o broker MQTT, deve-se informar o endereço do broker, nome 
 
 ![Parâmetros broker MQTT local](https://github.com/MAPL-UFU/mqtt-app-controle/assets/73907821/d0319dd3-dd63-4e95-a009-d52a6f5f0b88)
 
-Para a conexão com o broker em nuvem, utilizou-se um serviço gratuito da empresa Sternenbauer. Escolheu-se esse serviço dentre outros brokers gratuitos que foram encontrados, pois este possui um dashboard com informações de dispositivos conectados, tópicos e fluxos de mensagens em tempo real. O acesso ao dashboard é livre através [deste link](ufumapl.cloud.shiftr.io). Os parâmetros utilizados para a conexão com este broker em nuvem são mostrador a seguir. Vale lembrar que por ser um serviço gratuito, o tempo de conexão direta é de no máximo 6 horas. Sendo que após esse período, o broker entra em modo de suspensão para o recarregamento das horas. 
+Para a conexão com o broker em nuvem, utilizou-se um serviço gratuito da empresa Sternenbauer. Escolheu-se esse serviço dentre outros brokers gratuitos que foram encontrados, pois este possui um dashboard com informações de dispositivos conectados, tópicos e fluxos de mensagens em tempo real. O acesso ao dashboard é livre através [deste link](https://ufumapl.cloud.shiftr.io). Os parâmetros utilizados para a conexão com este broker em nuvem são mostrador a seguir. Vale lembrar que por ser um serviço gratuito, o tempo de conexão direta é de no máximo 6 horas. Sendo que após esse período, o broker entra em modo de suspensão para o recarregamento das horas. 
 
 ![Parâmetros broker MQTT Shiftr.io em nuvem](https://github.com/MAPL-UFU/mqtt-app-controle/assets/73907821/edc3e3e3-32e3-4258-8f95-63ca6b9287f6)
 
@@ -46,7 +46,7 @@ Os códigos para cada microcontrolador podem ser acessados através [deste diret
 O projeto do aplicativo pode ser acessado através do código fonte [neste diretório](https://github.com/MAPL-UFU/mqtt-app-controle/blob/main/Aplicativo/Android%20Studio/MQTT-APP-AndroidStudio.zip). Lembrando que, o arquivo está em formato .zip. Logo, deve-se realizar o Download para extraí-lo. Ou se preferir, pode-se realizar a instalação diretamente no dispositivo Android através do [APK](https://github.com/MAPL-UFU/mqtt-app-controle/blob/main/Aplicativo/APK/MQTT-App-vFinal.apk). Para realizar o download, deve-se clicar nos três pontos no canto superior direito e depois em "Download".
 
 ### 📲 Abrindo e executando o projeto no Android Studio
-Lembrando que para abrir o projeto do aplicativo, deve-se instalar o software Android Studio. Utilizou-se no desenvolvimento deste projeto foi a versão Android Studio Giraffe | 2022.3.1 Patch 1.
+Lembrando que para abrir o projeto do aplicativo, deve-se instalar o software Android Studio. Utilizou-se no desenvolvimento deste projeto a versão Android Studio Giraffe | 2022.3.1 Patch 1.
 
 Para não ocorrer erros na execução do projeto, siga os passos apresentados a seguir:
 - O arquivo será baixado no formato .zip. Assim, é necessário extraí-lo para conseguir acessar;
